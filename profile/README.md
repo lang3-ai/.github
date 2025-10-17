@@ -8,4 +8,4 @@ We're a small team working on AI solutions. Our grandparents taught us that clea
 
 We help businesses implement AI where it actually makes sense. Not because we're AI evangelists, but because we're problem solvers who understand both the human side and the technical side.
 
-**Want to know more?** Head to lang3.com.au or call +61 468 052 643.
+**Want to know more?** Head to [lang3.com.au](https://lang3.com.au) or call +61 468 052 643.
